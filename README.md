@@ -1,4 +1,4 @@
-# ortiz-explicaci--la-meva-app
+# ortiz-explicacio-la-meva-app
 
 Crear la carpeta: Primer de tot, creem una carpeta que es dirà <el teu Cognom>-la-meva-app (òbviament, poses el teu cognom on diu <el teu Cognom>), i després entrem dins d'aquesta carpeta.
 
