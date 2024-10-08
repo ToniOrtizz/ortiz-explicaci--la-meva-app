@@ -22,4 +22,4 @@
 #### Canviar els textos Utilitzem sed per substituir aquests textos dins dels arxius, traduint-los al català.
 #### Pujar els canvis a Github Creem un repo privat a GitHub que es diu <el teu Cognom>-explicacio-la-meva-app, convidem un col·lega a col·laborar-hi, i escrivim tot el que hem fet en un arxiu README.md. 
 
-![image](image.png)
+![Texto Alternativo](image.png)
