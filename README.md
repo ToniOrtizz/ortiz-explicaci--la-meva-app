@@ -1,5 +1,5 @@
 # ortiz-explicacio-la-meva-app
-#**Activitat explicacio de la meav activitat<H2>**
+**Activitat explicacio de la meav activitat<H2>**
 
 
 ###step 1
